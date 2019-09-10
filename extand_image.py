@@ -26,7 +26,7 @@ def extand(param):
 
 def main():
     trans = transforms.Compose([transforms.ToTensor()])
-    img_path = './src/test/1.png'
+    img_path = '1.png'
     img = Image.open(img_path).convert('RGB')
     test = trans(img)
 
