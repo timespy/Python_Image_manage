@@ -1,4 +1,5 @@
-# ShakeBlurSimulation
+# Python_Image_mange
+blur.py
 
 这是个非常简单的代码，仅仅上传来测试和学习如何使用github。鉴于最近需要大量的模糊图像，所以写了这个仿真程序。
 
